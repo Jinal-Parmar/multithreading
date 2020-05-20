@@ -1,6 +1,6 @@
 class producer extends Thread{
   company c;
-
+                           //product class
    producer(company c)
    {
    	this.c=c;
